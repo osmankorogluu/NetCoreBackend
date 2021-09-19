@@ -1,0 +1,13 @@
+C:\Users\win\source\repos\MyFinalProject\Entites\bin\Debug\netcoreapp3.1\Entites.deps.json
+C:\Users\win\source\repos\MyFinalProject\Entites\bin\Debug\netcoreapp3.1\Entites.dll
+C:\Users\win\source\repos\MyFinalProject\Entites\bin\Debug\netcoreapp3.1\Entites.pdb
+C:\Users\win\source\repos\MyFinalProject\Entites\obj\Debug\netcoreapp3.1\Entites.csproj.AssemblyReference.cache
+C:\Users\win\source\repos\MyFinalProject\Entites\obj\Debug\netcoreapp3.1\Entites.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\MyFinalProject\Entites\obj\Debug\netcoreapp3.1\Entites.AssemblyInfo.cs
+C:\Users\win\source\repos\MyFinalProject\Entites\obj\Debug\netcoreapp3.1\Entites.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\MyFinalProject\Entites\obj\Debug\netcoreapp3.1\Entites.dll
+C:\Users\win\source\repos\MyFinalProject\Entites\obj\Debug\netcoreapp3.1\Entites.pdb
+C:\Users\win\source\repos\MyFinalProject\Entites\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\win\source\repos\MyFinalProject\Entites\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\win\source\repos\MyFinalProject\Entites\obj\Debug\netcoreapp3.1\Entites.csproj.CopyComplete
+C:\Users\win\source\repos\MyFinalProject\Entites\obj\Debug\netcoreapp3.1\Entites.GeneratedMSBuildEditorConfig.editorconfig
