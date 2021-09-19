@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VkgR7uYWPkswaeUvLVWMIp2HRC4vD+9D20XrDQIsfPLkjE2ksuPw7v3Hnc+QE9lrZU0qkNRK5/WIwQ6KbsplMQ==",
+  "dgSpecHash": "XcLDxLcuO5twf8byXYqPxAcMh3EJrVp5/XpwcGV9CQIG/F2QlqWNQZQIg+6VluXggngXRABYRM98MWlSLVaiqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\win\\source\\repos\\MyFinalProject\\WebApı\\WebApı.csproj",
+  "projectFilePath": "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\WebApı\\WebApı.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\win\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\win\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

@@ -41,7 +41,7 @@ namespace WebApı
             services.AddControllers();
             //services.AddSingleton<IProductService,ProductManager>();
             //services.AddSingleton<IProductDal, EfProductDal>();
-
+               //ss
             services.AddCors(options =>
             {
                 options.AddPolicy("CorsPolicy", builder => builder

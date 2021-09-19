@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e3kqucB74buhrg0MK8DlO10pZi8tn/2Ed1Kg9iCvvEo2XHd53iAH+yj5FYVMqWESTxSAvg/1F14UO8QkeWHx5Q==",
+  "dgSpecHash": "Ufn7rglOChvIWT0dMRhQl33MmHH4II2aI84UIb5qIOxncsvudY7SkwmNiaSZYPOuzRUvtl3Jas5zfS1jHYAPWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\win\\source\\repos\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
+  "projectFilePath": "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\win\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\win\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

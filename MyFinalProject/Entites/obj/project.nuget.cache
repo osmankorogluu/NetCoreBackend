@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VYXKQ4xkctQ0s3WS16zYGr3GfubDnb48z8xxwqP7dSS3HIOOrPRAxqtmPCXcoBr5HXwHer4IWUR2N1VfLLFamw==",
+  "dgSpecHash": "ioqyrFi+mFsQQOE7rCuYnxwpYt7mUj25VXZhEYo3JSSOHZOLaYA+ZmIuPdFG3kDmHXONyfDlRR3j3sIch8Ej4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\win\\source\\repos\\MyFinalProject\\Entites\\Entites.csproj",
+  "projectFilePath": "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\Entites\\Entites.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\win\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\win\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zozqbaSkSFuqmC9LmqG0sz+9ISosyyOcFOagHVSKyOquVPbub027Cd8DGFzynUg5o9iS1vzQDkMjnMRAHVxvtA==",
+  "dgSpecHash": "Jba3wbLx9L+8G0n9UqWAw+c72qqg04qx+LTqt+pSCL0fHa/2IHXi6B8b/A3qomCEzJOtwFDRhS+P1BbFtP/Fwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\win\\source\\repos\\MyFinalProject\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\win\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\win\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

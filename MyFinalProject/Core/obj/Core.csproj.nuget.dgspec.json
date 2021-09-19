@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\win\\source\\repos\\MyFinalProject\\Core\\Core.csproj": {}
+    "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\win\\source\\repos\\MyFinalProject\\Core\\Core.csproj": {
+    "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\win\\source\\repos\\MyFinalProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\win\\source\\repos\\MyFinalProject\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\win\\source\\repos\\MyFinalProject\\Core\\obj\\",
+        "outputPath": "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

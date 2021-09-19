@@ -7676,11 +7676,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\win\\source\\repos\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\win\\source\\repos\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\win\\source\\repos\\MyFinalProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7701,14 +7701,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\win\\source\\repos\\MyFinalProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\win\\source\\repos\\MyFinalProject\\Business\\Business.csproj"
+            "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\win\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\win\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\win\\source\\repos\\MyFinalProject\\Entites\\Entites.csproj": {
-              "projectPath": "C:\\Users\\win\\source\\repos\\MyFinalProject\\Entites\\Entites.csproj"
+            "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\Entites\\Entites.csproj": {
+              "projectPath": "C:\\Users\\win\\Documents\\GitHub\\NetCoreBackend\\MyFinalProject\\Entites\\Entites.csproj"
             }
           }
         }
